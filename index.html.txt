@@ -4,8 +4,9 @@
 	</head>
 	<body>
 		<h2>This file is being added by Aamir Abbas</h2>
-		<p>Hi this is Aamir abbas i am from New Delhi India. i had completed my b.tech in year 2014 from
+		<p>Hi this is Aamir abbas i am from Delhi India. i had completed my b.tech in year 2014 from
 		 <b>U.N.S.I.E.T VBS Purvanchal university Jaunpur</b>,
 		 My branch was <i> Electronics and instrumentation engineering</i></p>
+		
 	</body>
 </html>
